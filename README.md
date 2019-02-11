@@ -5,3 +5,4 @@
 List of scripts:
 * [build-plugin](build-plugin) - creates a plugin test environment from scratch and runs basic fixtures suite
 * [run-plugin](run-plugin) - starts a local server with test env on localhost:8080
+* [reload-fixtures](reload-fixtures) - loads a fresh database setup for a default fixture suite 
