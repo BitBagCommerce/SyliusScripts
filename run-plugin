@@ -1,1 +1,1 @@
-bin/console server:run -e test localhost:8080
+cd tests/Application && bin/console server:run -e test localhost:8080
