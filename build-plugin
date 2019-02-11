@@ -1,0 +1,6 @@
+composer install && 
+cd tests/Application && 
+bin/console do:da:cre -e test && 
+bin/console do:sche:cre -e test && 
+yarn install && yarn run gulp && 
+bin/console sy:fi:lo -e test --no-interaction
