@@ -1,0 +1,1 @@
+bin/console sylius:fixtures:load --no-interaction
