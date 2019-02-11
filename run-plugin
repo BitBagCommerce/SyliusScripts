@@ -1,0 +1,1 @@
+bin/console server:run -e test localhost:8080
